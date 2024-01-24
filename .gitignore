@@ -1,13 +1,13 @@
 # CSCC01 Lab 2
 
 # dependencies
-*/node_modules
+*\node_modules
 
 # database
-*/data
+*\data
 
 # misc
 .DS_Store
 
 # Inclass example
-*/example
+*\example
