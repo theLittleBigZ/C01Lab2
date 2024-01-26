@@ -1,5 +1,5 @@
 {
-  "name": "backend-example-2",
+  "name": "backend-example",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
